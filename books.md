@@ -16,13 +16,13 @@ Currently this list is in table format, but I hope to upgrade it someday
 | Catch 22 (N)                | Vonnegut        |   | | | 
 | This is water (E)           |                 | Why study humanities?                                |         |    | 
 | Rosencrantz & Guildenstern are Dead (PL) | Hamlet, | Hamlet from diff perspective. Tragicomedy. Decent movie version || |
-| 1Q84 (N)                    |  Slighly postmodern. Hm...gives one a really weird feeling. Like slowly drops you out of reality in the way 100 years of solitude might. But more gradually. Feels like you should be building up to something, and then… you wake up. aybe your first murakami is always good.  |  |  | 
+| 1Q84 (N)                    | Calvino, Marquez | Slighly postmodern; not quite magical realism. Hm...gives one a really weird feeling. Like slowly drops you out of reality in the way 100 years of solitude might. But more gradually. Feels like you should be building up to something, and then… you wake up. aybe your first murakami is always good.  |  |  | 
 | Ishmael (N)                 |   | Cute to go into blind. Felt nicer on the first read (didn’t hold up to rereading as well). Perspective-inducing/I didn’t love it but it stayed in my head a while  |  |  |
 | Contact (SF)                |   | Cute to go into blind. Felt nicer on the first read (didn’t hold up to rereading as well). Perspective-inducing/I didn’t love it but it stayed in my head a while  |  |  |
 |Glass Bead Game aka Magister Ludi (N) |    |  Waxing philosophical a bit
 |The Unbearable Lightness of Being |    | Philosophical The only book I’ve read that I really thought “wow I would not have appreciated this a couple years ago”, so maybe wait on this one? I was in love with it from the first chapter. Resonated.   |  |  |
 | Invisible Cities (N...)   |     | You want to appreciate lit as art? ...postmodern. more like a beautiful atlas.  |  |  |
-| Watchmen (GN)             |   Cute. Not earth-shattering, but a little bit of perspective + good for people who don’t necessarily like that many words  |  |  |
+| Watchmen (GN)             |     | Cute. Not earth-shattering, but a little bit of perspective + good for people who don’t necessarily like that many words  |  |  |
 | Chaos (NF)  |   | Fun nearly-pop-sci-level intro to a different way of thinking about physics |   |  |
 | Thinking, Fast and Slow (NF) |   | cognitive biases! Human heuristics and how they are generally good but may fail us. Very modular read. Don’t take it at object level, But knowing we have biases is both cool and important!  |    |  |
 | The Happiness Project (NF/SH) |   |   Cute “actionable” self help feel-good book. Very readable.   |  |  |
