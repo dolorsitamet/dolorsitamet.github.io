@@ -1,6 +1,12 @@
+div {
+  background-color: #CC333333;
+  width: 300px;
+  border: 0px;
+  padding: 25px;
+  margin: 25px;
+}
+
 body {
-  padding:0px 0 20px 0px;
-  margin: 0px;
   font-family: 'PT Sans', sans-serif;
   font-size: 20px;	  
   color: white;
